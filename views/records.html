@@ -1,0 +1,9 @@
+<h1>Records</h1>
+<form method="POST" action="/records">
+<input type="text" placeholder="Add record..." name="text">
+</form>
+<ul>
+  {{#each records}}
+  <li>{{text}}</li>
+  {{/each}}
+</ul>

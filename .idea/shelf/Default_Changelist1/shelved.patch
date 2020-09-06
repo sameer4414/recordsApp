@@ -1,0 +1,74 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e11d1e25-36ab-4150-8687-e08a60a1e824\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/records.jpg\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/app.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/app.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/public/hapijs.jpeg\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1h14CngrC7BIJYKcchqpWQ7G4wg\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/public\" />\r\n    <property name=\"nodejs_interpreter_path\" value=\"node\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"terminal\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\DDTS-DELL-1\\WebstormProjects\\recordsApp\\public\" />\r\n      <recent name=\"C:\\Users\\DDTS-DELL-1\\WebstormProjects\\recordsApp\" />\r\n      <recent name=\"C:\\Users\\DDTS-DELL-1\\WebstormProjects\\recordsApp\\views\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e11d1e25-36ab-4150-8687-e08a60a1e824\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1599165140144</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1599165140144</updated>\r\n      <workItem from=\"1599165141415\" duration=\"485000\" />\r\n      <workItem from=\"1599227273346\" duration=\"668000\" />\r\n      <workItem from=\"1599228318544\" duration=\"2018000\" />\r\n      <workItem from=\"1599232461971\" duration=\"64000\" />\r\n      <workItem from=\"1599232977852\" duration=\"19000\" />\r\n      <workItem from=\"1599315813088\" duration=\"10000\" />\r\n      <workItem from=\"1599315835010\" duration=\"43000\" />\r\n      <workItem from=\"1599315956955\" duration=\"1071000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"1\">\r\n          <value>\r\n            <State>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"structure\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"dir:C:/Users/DDTS-DELL-1/WebstormProjects/recordsApp/public\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"1\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"526\" y=\"210\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1599228741009\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"526\" y=\"210\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824\" timestamp=\"1599228741009\" />\r\n    <state x=\"548\" y=\"153\" key=\"FileChooserDialogImpl\" timestamp=\"1599317032947\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"548\" y=\"153\" key=\"FileChooserDialogImpl/0.0.1536.824@0.0.1536.824\" timestamp=\"1599317032947\" />\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1599316804639\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824\" timestamp=\"1599316804639\" />\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.center\" timestamp=\"1599316804639\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824\" timestamp=\"1599316804639\" />\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.left\" timestamp=\"1599316804639\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824\" timestamp=\"1599316804639\" />\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.right\" timestamp=\"1599316804639\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"745\" height=\"203\" key=\"GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824\" timestamp=\"1599316804639\" />\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor\" timestamp=\"1599317035858\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"277\" y=\"57\" key=\"SettingsEditor/0.0.1536.824@0.0.1536.824\" timestamp=\"1599317035858\" />\r\n    <state x=\"479\" y=\"129\" width=\"577\" height=\"566\" key=\"find.popup\" timestamp=\"1599316624868\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"479\" y=\"129\" width=\"577\" height=\"566\" key=\"find.popup/0.0.1536.824@0.0.1536.824\" timestamp=\"1599316624868\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision f87f9c376897a85776e98427bcd4b28fa64ef78b)
++++ .idea/workspace.xml	(date 1599343311390)
+@@ -6,10 +6,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="e11d1e25-36ab-4150-8687-e08a60a1e824" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/public/records.jpg" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/public/hapijs.jpeg" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -98,6 +95,7 @@
+         <entry key="1" value="TOOL_WINDOW" />
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="526" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599228741009">
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(date 1599344236447)
++++ README.md	(date 1599344236447)
+@@ -0,0 +1,36 @@
++# RecordsApp
++
++Records app is a Node, ReST, JavaScript, MongoDB and Hapi JS based app used to display a basic CRUD operation into a locally installed Mongo DB.
++
++## Requirements to run the application
++
++The application displays a list of ReST operations (GET/POST) for both the display of static files and records (fetching from the MongoDB) also serving the static files from the file system
++
++To run the complete application we need :
++
++```
++Node
++```
++```
++MongoDB
++```
++
++Collection required in the database : ``Records``
++
++## Start the application
++
++You can use the below commands to start the application:
++
++```bash
++node index.js
++```
++or simply
++```bash
++nodemon
++```
++
++## Usage
++
++```bash
++TODO
++```
+\ No newline at end of file
