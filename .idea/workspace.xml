@@ -5,7 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e11d1e25-36ab-4150-8687-e08a60a1e824" name="Default Changelist" comment="Commit" />
+    <list default="true" id="e11d1e25-36ab-4150-8687-e08a60a1e824" name="Default Changelist" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
